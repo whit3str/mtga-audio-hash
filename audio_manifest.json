@@ -1,7 +1,7 @@
 {
-    "audio_manifest_hash":  "2de3dbf25f17a322a63fa4f0b5c7e6be",
-    "localization_manifest_hash":  "8f581039f288fa8a537715cae1972082",
-    "client_version":  "2026.65.0.14672.1335447",
-    "updated_utc":  "2026-11-07T20:34:29Z",
+    "audio_manifest_hash":  "d44d8e0896319b16570fe192bbd36d46",
+    "localization_manifest_hash":  "d9d13548639b0a51416cf671723c124c",
+    "client_version":  "2026.65.20.14852.1341982",
+    "updated_utc":  "2026-11-22T16:34:25Z",
     "source":  "Player.log"
 }
